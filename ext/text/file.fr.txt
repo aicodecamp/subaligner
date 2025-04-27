@@ -1,0 +1,11 @@
+Vous aimeriez créer un site web, mais vous ne savez pas vraiment comment vous y prendre ou par quel bout commencer.
+Peut-être que certains d'entre vous pourraient faire appel à un développeur en freelance.
+Mais vous vous dites, non quand même, j'aimerais bien le faire moi-même.
+Et bien la meilleure façon de plonger dans le monde du web, c'est de commencer par la base.
+Apprendre à écrire en langage HTML et en langage CSS.
+C'est souvent par là qu'on commence quand on apprend à coder, car tous les sites, je dis bien tous les sites, sur lesquels nous naviguons sur Internet, sont créés dans ces deux langages.
+Si vous avez toujours eu envie de créer vos premières pages web, alors vous êtes au bon endroit.
+Dans ce cours, vous allez être vite capable de maîtriser les bases du HTML5, de faire de la mise en forme avec CSS3, d'agencer le contenu de vos pages ou de créer vos propres formulaires.
+Alors.
+Prêt à réaliser un site web de A à Z ?
+C'est parti !

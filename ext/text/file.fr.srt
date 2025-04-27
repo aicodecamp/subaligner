@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:05,700
+Vous aimeriez créer un site web, mais vous ne savez pas vraiment comment vous y prendre ou par quel bout commencer.
+
+2
+00:00:06,780 --> 00:00:10,060
+Peut-être que certains d'entre vous pourraient faire appel à un développeur en freelance.
+
+3
+00:00:10,900 --> 00:00:15,040
+Mais vous vous dites, non quand même, j'aimerais bien le faire moi-même.
+
+4
+00:00:16,180 --> 00:00:20,520
+Et bien la meilleure façon de plonger dans le monde du web, c'est de commencer par la base.
+
+5
+00:00:21,280 --> 00:00:25,200
+Apprendre à écrire en langage HTML et en langage CSS.
+
+6
+00:00:25,200 --> 00:00:35,380
+C'est souvent par là qu'on commence quand on apprend à coder, car tous les sites, je dis bien tous les sites, sur lesquels nous naviguons sur Internet, sont créés dans ces deux langages.
+
+7
+00:00:36,280 --> 00:00:41,180
+Si vous avez toujours eu envie de créer vos premières pages web, alors vous êtes au bon endroit.
+
+8
+00:00:42,200 --> 00:00:53,620
+Dans ce cours, vous allez être vite capable de maîtriser les bases du HTML5, de faire de la mise en forme avec CSS3, d'agencer le contenu de vos pages ou de créer vos propres formulaires.
+
+9
+00:00:54,320 --> 00:00:54,800
+Alors.
+
+10
+00:00:55,200 --> 00:00:58,100
+Prêt à réaliser un site web de A à Z ?
+
+11
+00:00:58,100 --> 00:00:59,280
+C'est parti !
+
