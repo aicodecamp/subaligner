@@ -1,0 +1,5 @@
+2025-04-28 01:20:13,622 - DEBUG - Reading file: /home/vagrant/workspace/subaligner/ext/scripts/file.fr.txt
+2025-04-28 01:20:14,179 - INFO - Detected language: fr
+2025-04-28 01:20:14,179 - DEBUG - Loading French large model
+2025-04-28 01:20:22,818 - DEBUG - Writing to file: /home/vagrant/workspace/subaligner/ext/scripts/file.fr.segment2.txt
+2025-04-28 01:20:22,819 - INFO - Segmentation completed. Output written to /home/vagrant/workspace/subaligner/ext/scripts/file.fr.segment2.txt
